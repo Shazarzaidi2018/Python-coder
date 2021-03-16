@@ -1,2 +1,2 @@
-# calculator
-In this code give the input by user.
+ python programs
+
